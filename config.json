@@ -42,10 +42,10 @@
   "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "andylabaco@gmail.com",
-      "clientId": "96871167660-5js0qjdlpr2mcd331kv5obpifev5j69r.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04qK_zxJkdK7RCgYIARAAGAQSNwF-L9IrZOdI4prCgpqvAoDEvn-HpuSugKxBTRNoGS37QwxfAWJUCehSKhdas26xOh-SjmdR4uw",
+      "email": "sahinff08@gmail.com",
+      "clientId": "963380737950-qkqhlsqh63k20mbur0oeqf1fvsn38k0o.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//044zfRJaAlnabCgYIARAAGAQSNwF-L9IrR3MPwQravyS2DKnxYehAnQpDiH1vcVc4JAHJTDH1HtmI0eVUYLPODyPIp3I-e8rchyg",
       "apiKey": ""
     },
     "gRecaptcha": {
