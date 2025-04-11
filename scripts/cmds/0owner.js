@@ -16,12 +16,12 @@ config: {
   onStart: async function ({ api, event }) {
   try {
     const ownerInfo = {
-      name: '𝒢𝓍 𝑅𝒶𝒾𝒽𝒶𝓃',
-      gender: '𝑀𝒶𝓁𝑒',
-      age: '𝓤𝓷𝓴𝓷𝓸𝔀𝓷',
-      height: '𝓤𝓷𝓴𝓷𝓸𝔀𝓷',
+      name: 'αвυ нυrαιrα',
+      gender: 'мαʟε',
+      age: 'υɴкɴoωɴ ',
+      height: 'υɴкɴoωɴ ',
       facebookLink: 'stalk moko mwa',
-      nick: '𝑅𝒶𝒽𝓊𝓊𝓊'
+      nick: 'sнαммo '
     };
 
     const bold = 'https://tinyurl.com/2ctfanx6'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
