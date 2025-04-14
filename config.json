@@ -23,7 +23,7 @@
     "whiteListIds": [""],
     "notes": "Only these IDs can use the bot if enabled."
   },
-  "nickNameBot": "𝗠𝗔𝗞𝗜𝗠𝗔 🤍✨",
+  "nickNameBot": "𝗛𝗜𝗡𝗔𝗧𝗔 ✨",
   "prefix": "!",
   "database": {
     "type": "sqlite",
