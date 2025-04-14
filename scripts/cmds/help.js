@@ -34,7 +34,7 @@ module.exports = {
       const categories = {};
       let msg = "";
 
-      msg += `╔══════════════╗\n🔹 𝗠𝗔𝗞𝗜𝗠𝗔 🤍✨🔹\n╚══════════════╝\n`;
+      msg += `🔴🟡🟢\n\n╔═════ஜ۩۞۩ஜ═════╗\n🔹 𝗛𝗜𝗡𝗔𝗧𝗔 🤍✨🔹\n╚════ஜ۩۞۩ஜ═════╝\n`;
 
       for (const [name, value] of commands) {
         if (value.config.role > 1 && role < value.config.role) continue;
@@ -46,7 +46,7 @@ module.exports = {
 
       Object.keys(categories).forEach((category) => {
         if (category !== "info") {
-          msg += `\n╭────────────⭓\n│『 ${category.toUpperCase()} 』`;
+          msg += `\n╭────────────❍\n│『 ${category.toUpperCase()} 』`;
 
           const names = categories[category].commands.sort();
           names.forEach((item) => {
@@ -60,7 +60,7 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗵𝗮𝘀 ${totalCommands} 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘁𝗵𝗮𝘁 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱\n`;
       msg += `\n𝗧𝘆𝗽𝗲 ${prefix}𝗵𝗲𝗹𝗽 𝗰𝗺𝗱𝗡𝗮𝗺𝗲 𝘁𝗼 𝘃𝗶𝗲𝘄 𝘁𝗵𝗲 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 𝗼𝗳 𝘁𝗵𝗮𝘁 𝗰𝗼𝗺𝗺𝗮𝗻𝗱\n`;
-      msg += `\n✨𝑩𝑶𝑻 𝑵𝑨𝑴𝑬: 𝗠𝗔𝗞𝗜𝗠𝗔 🤍✨`;
+      msg += `\n✨𝑩𝑶𝑻 𝑵𝑨𝑴𝑬: 𝗛𝗜𝗡𝗔𝗧𝗔 🤍✨`;
       
       msg += `\n 					`;
       
