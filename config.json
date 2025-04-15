@@ -6,7 +6,7 @@
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
-    "intervalGetNewCookie": 830,
+    "intervalGetNewCookie": null,
     "notes": "Time the system automatically retrieves new cookies from email/password, unit is minute. Set to null to disable. Recommended: 1440 (1 day) or 4320 (3 days)."
   },
   "antiInbox": false,
